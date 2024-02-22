@@ -1,8 +1,0 @@
-[submodule "src/backend"]
-	path = src/backend
-	url = https://github.com/tantarin/edtech-club-backend.git
-	branch = master
-[submodule "src/frontend"]
-	path = src/frontend
-	url = https://github.com/tantarin/edtech-club-frontend.git
-	branch = master
